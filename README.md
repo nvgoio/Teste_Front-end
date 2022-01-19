@@ -36,10 +36,8 @@ O layout fornecido não é muito complexo visualmente, nosso maior interesse é 
 
 ## Tecnologias que você pode utilizar
 
-Você é livre para utilizar qualquer framework JS que preferir, mas saiba que aqui na Via Varejo por enquanto trabalhamos com Angular 4 e 7
+Você é livre para utilizar qualquer framework JS que preferir, mas saiba que aqui na NVGO por enquanto trabalhamos com NextJs.
 
-Na parte de CSS, você é livre de utilizar qualquer preprocessador também, mas *não é permitido utilizar nenhum framework CSS*. Aqui na Via Varejo utilizamos Sass (scss).
-
-Sobre _task manager_, _bundler_ e similares, fica à vontade, apenas pedimos que você adicione instruções detalhadas sobre como fazer funcionar a aplicação.
+Na parte de CSS, você é livre de utilizar qualquer preprocessador também, mas *não é permitido utilizar nenhum framework CSS*. Aqui na NVGO utilizamos styled components Sobre _task manager_, _bundler_ e similares, fica à vontade, apenas pedimos que você adicione instruções detalhadas sobre como fazer funcionar a aplicação.
 
 
